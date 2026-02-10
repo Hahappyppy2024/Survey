@@ -12,4 +12,3 @@ Survey on Software
 - scripts/
   - stats_and_plots.py           # generate distribution plots and tables (optional)
 
-## How to reproduce taxonomy assignment
