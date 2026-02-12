@@ -1,6 +1,6 @@
 # Survey
 Survey on Software
-# Replication Package: VM Taxonomy Construction
+# Replication Package: Taxonomy Construction
 
 ## Contents
 - taxonomy_labels.csv            # label schema (IDs, hierarchy)
